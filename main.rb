@@ -1,16 +1,5 @@
-###################################
-# Program for running tic tac toe #
-###################################
+# Output Board for Final Round #
 
-# require_relative "game.rb"
-
-# start = Game.new
-
-# while $game_over == false
-#   start.play
-# end
-
-#-----------------------------------------------------------------------
 # Stress testing code that only displays final game screen (just for reference)
 # Loops until game over condition reached - use for stress testing
 
@@ -72,6 +61,9 @@
 # console.output_results(x_won, o_won)
 
 #-----------------------------------------------------------------------
+
+# Output Board for All Rounds #
+
 # Stress testing code that displays game screen for every round
 # to determine where logic fails
 # Loops until game over condition reached
